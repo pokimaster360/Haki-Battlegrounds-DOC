@@ -30,7 +30,7 @@ La arquitectura está dividida en cuatro grandes áreas:
 	El flujo general:
 
 	```text
-CLIENT
+-- CLIENT
 │
 ├── InputController
 │       │
